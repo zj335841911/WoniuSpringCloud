@@ -31,5 +31,5 @@ eureka:
 spring: 
    profiles: test
    application:
-    name: WoniuSpringCloud-config-client-test   #当前服务的名字，后面会用到
+    name: WoniuSpringCloud-config-client-test1   #当前服务的名字，后面会用到
    
